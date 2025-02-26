@@ -8,7 +8,7 @@
 >
 >![TEKKEN 8 logo](Tekken-8-Logo.webp)
 
->### **Wie bin ich vorgegangen?**
+>## _**$${\color{yellow}Wie~bin~ich~vorgegangen?}$$**_
 >
 >1. _Ich habe zu beginn die Seite die ich programmieren will auf ein Blatt Papier gezeichnet und danach überlegt wie ich die verschiedenen Container anordne und wie ich sie richtig ausrichte._
 >
@@ -19,5 +19,3 @@
 >4. _Zum schluss hab ich alles mit CSS ausrichtet und gestaltet._
 >
 > _**Ich habe ca. 5 Tage daran gearbeitet im Ramen meines Orientierungskurses beim DCI.**_
-
-
